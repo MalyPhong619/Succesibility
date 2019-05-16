@@ -2,6 +2,9 @@
 
 #### React team Project for Epicodus
 
+[Live Deploy](https://successibility.netlify.com)
+
+
 _Published_ **May 13 2019**<br>
 _Authors_ **Chris Breaux, Gary Bermudez, Victoria Martinez, Doris Warren, Maly Phongsavanh**
 
